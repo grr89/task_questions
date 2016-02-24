@@ -15,6 +15,7 @@ sqlDummy/3.sql
 #### Question 1
 
 php phpDummy/main.php
+
 enter 'q' char and press ENTER to exit from program
 
 #### Question 2
