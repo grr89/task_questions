@@ -14,7 +14,8 @@ sqlDummy/3.sql
 ### PHP dummy test
 #### Question 1
 
-php phpDummy/main.php  
+php phpDummy/main.php
+enter 'q' char and press ENTER to exit from program
 
 #### Question 2
 phpunit phpDummy/tests/UtilTest
