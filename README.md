@@ -14,7 +14,7 @@ sqlDummy/3.sql
 ### PHP dummy test
 #### Question 1
 
-php phpDummy main.php  
+php phpDummy/main.php  
 
 #### Question 2
 phpunit phpDummy/tests/UtilTest
